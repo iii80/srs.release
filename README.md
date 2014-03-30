@@ -5,8 +5,8 @@ release binaries for https://github.com/winlinvip/simple-rtmp-server
 
 #Simple-RTMP-Server
 
-You can [Download Released SRS(ÏÂÔØ·¢²¼°æ)](http://winlinvip.github.io/srs.release/releases/)
+You can [Download Released SRS(ä¸‹è½½å‘å¸ƒç‰ˆ)](http://winlinvip.github.io/srs.release/releases/)
 
-Or download from [chnvideo mirror(¹úÄÚ¾µÏñ)](http://demo.chnvideo.com:8085/srs/releases/)
+Or download from [chnvideo mirror(å›½å†…é•œåƒ)](http://demo.chnvideo.com:8085/srs/releases/)
 
 Winlin 2014.3
